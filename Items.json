@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Fruits and Vegetables",
+    "image": "fruits_vegetables.jpg",
+    "price": "$5.99"
+  },
+  {
+    "id": 2,
+    "name": "Dairy and Eggs",
+    "image": "dairy_eggs.jpg",
+    "price": "$4.99"
+  },
+  {
+    "id": 3,
+    "name": "Meat and Seafood",
+    "image": "meat_seafood.jpg",
+    "price": "$12.99"
+  },
+  {
+    "id": 4,
+    "name": "Bakery and Bread",
+    "image": "bakery_bread.jpg",
+    "price": "$6.99"
+  },
+  {
+    "id": 5,
+    "name": "Pantry Staples",
+    "image": "pantry_staples.jpg",
+    "price": "$9.99"
+  },
+  {
+    "id": 6,
+    "name": "Beverages",
+    "image": "beverages.jpg",
+    "price": "$5.99"
+  },
+  {
+    "id": 7,
+    "name": "Frozen Foods",
+    "image": "frozen_foods.jpg",
+    "price": "$8.99"
+  },
+  {
+    "id": 8,
+    "name": "Snacks",
+    "image": "snacks.jpg",
+    "price": "$4.99"
+  },
+  {
+    "id": 9,
+    "name": "Canned Goods",
+    "image": "canned_goods.jpg",
+    "price": "$3.99"
+  },
+  {
+    "id": 10,
+    "name": "Condiments and Sauces",
+    "image": "condiments_sauces.jpg",
+    "price": "$5.99"
+  },
+  {
+    "id": 11,
+    "name": "Grains and Pasta",
+    "image": "grains_pasta.jpg",
+    "price": "$6.99"
+  },
+  {
+    "id": 12,
+    "name": "Spices and Seasonings",
+    "image": "spices_seasonings.jpg",
+    "price": "$4.99"
+  },
+  {
+    "id": 13,
+    "name": "Health and Wellness",
+    "image": "health_wellness.jpg",
+    "price": "$15.99"
+  },
+  {
+    "id": 14,
+    "name": "Baby Food and Supplies",
+    "image": "baby_food_supplies.jpg",
+    "price": "$9.99"
+  },
+  {
+    "id": 15,
+    "name": "Pet Supplies",
+    "image": "pet_supplies.jpg",
+    "price": "$19.99"
+  }
+]
