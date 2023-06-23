@@ -1,5 +1,5 @@
 {
-  Categories
+  Categories: [
 }
   {
     "id": 1,
@@ -91,4 +91,5 @@
     "image": "pet_supplies.jpg",
     "price": "$19.99"
   }
+]
 
